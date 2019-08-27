@@ -1,0 +1,10 @@
+# Binary Files
+bin/*
+*.exe
+
+# Object Files
+obj/*
+*.o
+
+# Eeeh.
+Makefile.win
